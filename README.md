@@ -1,3 +1,3 @@
 # AI_healthcare_bot
 Patient Assitant Bot
-This bot helps the healthcare organization for assisting Patients billing through the bot.
+A prototype bot i created to assist the user for billing and invoice service at a hospital.
